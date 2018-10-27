@@ -1,5 +1,4 @@
-#! /usr/bin/env python
-#
+
 # Copyright (C) 2012-2018 Michael Waskom
 
 DESCRIPTION = "seaborn: statistical data visualization"
@@ -80,3 +79,8 @@ if __name__ == "__main__":
         packages=PACKAGES,
         classifiers=CLASSIFIERS
     )
+
+
+""" check python version """
+import sys
+print(sys.version_info)

@@ -2,3 +2,6 @@ numpy
 scipy
 matplotlib
 pandas
+pip installed in Desktop 
+Download anaconda
+
